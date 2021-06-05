@@ -11,6 +11,6 @@ Portfolio Sample
 ## 利用している技術
 HTML / CSS
 
-## インスール方法
+## インストール方法
 そのままindex.htmlをブラウザで開くと閲覧できます。
 
